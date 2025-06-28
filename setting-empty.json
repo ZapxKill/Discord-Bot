@@ -1,0 +1,10 @@
+{
+    "TOKEN": "",
+    "Weather": {
+        "url": ""
+    },
+    "Segaid": {
+        "sid": "",
+        "password": ""
+    }
+}
