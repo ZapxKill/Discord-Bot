@@ -10,7 +10,7 @@
 - Gacha game simulate
 ***
 # How to use
-- Put your Discord bot token / Taiwan government data Token / Sega account in settings.json
+- Put your Discord bot token / Taiwan government data Token / Sega account in setting.json
 - Run main.py
 - You will need start VoiceVox server if you use VoiceVox function.
 ***
