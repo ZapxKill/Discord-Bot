@@ -12,6 +12,7 @@
 # How to use
 - Put your Discord bot token / Taiwan government data Token / Sega account in settings.json
 - Run main.py
+- You will need start VoiceVox server if you use VoiceVox function.
 ***
 # Data API Website
   https://data.gov.tw/
